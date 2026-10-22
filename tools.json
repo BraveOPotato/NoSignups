@@ -4605,6 +4605,102 @@
       "stars": 1391,
       "addedAt": "2026-09-22",
       "section": "editors-pick"
+    },
+    {
+      "id": "museum-of-ages",
+      "name": "Museum of Ages",
+      "description": "A digital museum you walk through in the browser: Leonardo da Vinci's last house, 15 machines rebuilt in code, 25 pictures.",
+      "url": "https://museumofages.org",
+      "category": "education",
+      "tags": [
+        "digital-museum",
+        "paintings",
+        "art"
+      ],
+      "github": "https://github.com/chipmates/museumofages",
+      "license": "AGPL-3.0",
+      "stars": 17,
+      "addedAt": "2026-10-22",
+      "section": "meets-criteria"
+    },
+    {
+      "id": "simple-video-player",
+      "name": "Simple Video Player",
+      "description": "Plays videos from your computer locally in the browser.",
+      "url": "https://simplevideoplayer.com/",
+      "category": "media",
+      "tags": [
+        "video-player",
+        "media-player"
+      ],
+      "github": "https://github.com/ifedapoolarewaju/simplevideoplayer",
+      "license": "MIT",
+      "stars": 100,
+      "addedAt": "2026-10-22",
+      "section": "meets-criteria"
+    },
+    {
+      "id": "waifu2x",
+      "name": "waifu2x",
+      "description": "An image upscaler and noise reducer.",
+      "url": "https://www.waifu2x.net/",
+      "category": "media",
+      "tags": [
+        "image-upscaler",
+        "noise-reducer"
+      ],
+      "github": "https://github.com/nagadomi/nunif",
+      "license": "MIT",
+      "stars": 3518,
+      "addedAt": "2026-10-22",
+      "section": "meets-criteria"
+    },
+    {
+      "id": "ntsc",
+      "name": "NTSC",
+      "description": "it a VHS effect that fakes NTSC",
+      "url": "https://web.ntsc.rs/",
+      "category": "media",
+      "tags": [
+        "vhs-effect"
+      ],
+      "github": "https://github.com/ntsc-rs/ntsc-rs-web",
+      "license": "?",
+      "stars": 35,
+      "addedAt": "2026-10-22",
+      "section": "meets-criteria"
+    },
+    {
+      "id": "edna",
+      "name": "Edna",
+      "description": "Integrated AI chat, blocks, markdown, syntax highlighting for 40+ languages (JavaScript, Python, C++, Go, Java, C#, Ruby and more), command palette, programmability.",
+      "url": "https://edna.arslexis.io/",
+      "category": "writing",
+      "tags": [
+        "markdown",
+        "syntax-highlighting"
+      ],
+      "github": "https://github.com/kjk/edna",
+      "license": "Custom",
+      "stars": 541,
+      "addedAt": "2026-10-22",
+      "section": "meets-criteria"
+    },
+    {
+      "id": "openssl-webterm",
+      "name": "OpenSSL Webterm",
+      "description": "OpenSSL running in browsers, using WebAssembly (Emscripten) + xterm.js + React",
+      "url": "https://www.cryptool.org/en/cto/openssl/",
+      "category": "utilities",
+      "tags": [
+        "openssl",
+        "webcli"
+      ],
+      "github": "https://github.com/cryptool-org/openssl-webterm",
+      "license": "?",
+      "stars": 113,
+      "addedAt": "2026-10-22",
+      "section": "meets-criteria"
     }
   ]
 }
