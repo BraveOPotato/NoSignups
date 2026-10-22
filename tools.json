@@ -76,7 +76,7 @@
       ],
       "github": "https://github.com/excalidraw/excalidraw",
       "license": "MIT",
-      "stars": 132740,
+      "stars": 134385,
       "addedAt": "2026-05-07",
       "section": "featured"
     },
@@ -94,7 +94,7 @@
       ],
       "github": "https://github.com/cryptpad/cryptpad",
       "license": "AGPL-3.0",
-      "stars": 7951,
+      "stars": 8024,
       "addedAt": "2026-05-07",
       "section": "featured"
     },
@@ -112,7 +112,7 @@
       ],
       "github": "https://github.com/gristlabs/grist-core",
       "license": "Apache-2.0",
-      "stars": 11851,
+      "stars": 11986,
       "addedAt": "2026-05-07",
       "section": "featured"
     },
@@ -130,7 +130,7 @@
       ],
       "github": "https://github.com/simonw/datasette-lite",
       "license": "Apache-2.0",
-      "stars": 409,
+      "stars": 410,
       "addedAt": "2026-05-07",
       "section": "meets-criteria"
     },
@@ -148,7 +148,7 @@
       ],
       "github": "https://github.com/rawgraphs/rawgraphs-app",
       "license": "Apache-2.0",
-      "stars": 9032,
+      "stars": 9044,
       "addedAt": "2026-05-07",
       "section": "meets-criteria"
     },
@@ -166,7 +166,7 @@
       ],
       "github": "https://github.com/drawdb-io/drawdb",
       "license": "AGPL-3.0",
-      "stars": 39691,
+      "stars": 40106,
       "addedAt": "2026-05-07",
       "section": "featured"
     },
@@ -184,7 +184,7 @@
       ],
       "github": "https://github.com/GraphiteEditor/Graphite",
       "license": "Apache-2.0",
-      "stars": 27344,
+      "stars": 27686,
       "addedAt": "2026-05-07",
       "section": "featured"
     },
@@ -202,7 +202,7 @@
       ],
       "github": "https://github.com/mermaid-js/mermaid-live-editor",
       "license": "MIT",
-      "stars": 6821,
+      "stars": 6869,
       "addedAt": "2026-05-07",
       "section": "meets-criteria"
     },
@@ -220,7 +220,7 @@
       ],
       "github": "https://github.com/undergroundwires/privacy.sexy",
       "license": "GPL-3.0",
-      "stars": 6055,
+      "stars": 6134,
       "addedAt": "2026-05-07",
       "section": "featured"
     },
@@ -237,7 +237,7 @@
       ],
       "github": "https://github.com/OpenCut-app/OpenCut",
       "license": "MIT",
-      "stars": 90550,
+      "stars": 95722,
       "addedAt": "2026-05-07",
       "section": "featured"
     },
@@ -255,7 +255,7 @@
       ],
       "github": "https://github.com/SVG-Edit/svgedit",
       "license": "MIT",
-      "stars": 7847,
+      "stars": 7882,
       "addedAt": "2026-05-07",
       "section": "editors-pick"
     },
@@ -273,7 +273,7 @@
       ],
       "github": "https://github.com/methodofaction/Method-Draw",
       "license": "MIT",
-      "stars": 3012,
+      "stars": 3021,
       "addedAt": "2026-05-07",
       "section": "editors-pick"
     },
@@ -291,7 +291,7 @@
       ],
       "github": "https://github.com/piskelapp/piskel",
       "license": "Apache-2.0",
-      "stars": 12806,
+      "stars": 12860,
       "addedAt": "2026-05-07",
       "section": "editors-pick"
     },
@@ -309,7 +309,7 @@
       ],
       "github": "https://github.com/browserpad/browserpad",
       "license": "ISC",
-      "stars": 87,
+      "stars": 88,
       "addedAt": "2026-05-07",
       "section": "meets-criteria"
     },
@@ -327,7 +327,7 @@
       ],
       "github": "https://github.com/cryptii/cryptii",
       "license": "MIT",
-      "stars": 1500,
+      "stars": 1509,
       "addedAt": "2026-05-07",
       "section": "meets-criteria"
     },
@@ -345,7 +345,7 @@
       ],
       "github": "https://github.com/tanabe/markdown-live-preview",
       "license": "MIT",
-      "stars": 981,
+      "stars": 1024,
       "addedAt": "2026-05-07",
       "section": "editors-pick"
     },
@@ -363,7 +363,7 @@
       ],
       "github": "https://github.com/audreyt/ethercalc",
       "license": "CPAL-1.0",
-      "stars": 3050,
+      "stars": 3057,
       "addedAt": "2026-05-07",
       "section": "editors-pick"
     },
@@ -381,7 +381,7 @@
       ],
       "github": "https://github.com/joemccann/dillinger",
       "license": "MIT",
-      "stars": 8286,
+      "stars": 8292,
       "addedAt": "2026-05-07",
       "section": "editors-pick"
     },
@@ -399,7 +399,7 @@
       ],
       "github": "https://github.com/benweet/stackedit",
       "license": "Apache-2.0",
-      "stars": 23101,
+      "stars": 23094,
       "addedAt": "2026-05-07",
       "section": "featured"
     },
@@ -417,7 +417,7 @@
       ],
       "github": "https://github.com/resume-nation/resume-nation.github.io",
       "license": "MIT",
-      "stars": 152,
+      "stars": 153,
       "addedAt": "2026-05-07",
       "section": "meets-criteria"
     },
@@ -435,7 +435,7 @@
       ],
       "github": "https://github.com/jsbin/jsbin",
       "license": "MIT",
-      "stars": 4418,
+      "stars": 4423,
       "addedAt": "2026-05-07",
       "section": "meets-criteria"
     },
@@ -453,7 +453,7 @@
       ],
       "github": "https://github.com/pathrise-eng/pathrise-python-tutor",
       "license": "GPL-3.0",
-      "stars": 200,
+      "stars": 202,
       "addedAt": "2026-05-07",
       "section": "editors-pick"
     },
@@ -471,7 +471,7 @@
       ],
       "github": "https://github.com/dart-lang/dart-pad",
       "license": "BSD-3-Clause",
-      "stars": 1862,
+      "stars": 1869,
       "addedAt": "2026-05-07",
       "section": "meets-criteria"
     },
@@ -489,7 +489,7 @@
       ],
       "github": "https://github.com/pandoc/pandoc-wasm",
       "license": "MIT",
-      "stars": 22,
+      "stars": 28,
       "addedAt": "2026-06-18",
       "section": "meets-criteria"
     },
@@ -507,7 +507,7 @@
       ],
       "github": "https://github.com/amitmerchant1990/notepad",
       "license": "MIT",
-      "stars": 381,
+      "stars": 383,
       "addedAt": "2026-05-07",
       "section": "editors-pick"
     },
@@ -525,7 +525,7 @@
       ],
       "github": "https://github.com/1j01/jspaint",
       "license": "MIT",
-      "stars": 7882,
+      "stars": 7900,
       "addedAt": "2026-05-07",
       "section": "featured"
     },
@@ -543,7 +543,7 @@
       ],
       "github": "https://github.com/rgab1508/PixelCraft",
       "license": "MIT",
-      "stars": 1522,
+      "stars": 1528,
       "addedAt": "2026-05-07",
       "section": "meets-criteria"
     },
@@ -562,7 +562,7 @@
       ],
       "github": "https://github.com/schlagmichdoch/pairdrop",
       "license": "GPL-3.0",
-      "stars": 11459,
+      "stars": 11648,
       "addedAt": "2026-06-10",
       "section": "featured"
     },
@@ -580,7 +580,7 @@
       ],
       "github": "https://github.com/localsend/web",
       "license": "Apache-2.0",
-      "stars": 174,
+      "stars": 199,
       "addedAt": "2026-06-10",
       "section": "featured"
     },
@@ -597,7 +597,7 @@
       ],
       "github": "https://github.com/mlc-ai/web-llm",
       "license": "Apache-2.0",
-      "stars": 19174,
+      "stars": 19301,
       "addedAt": "2026-06-10",
       "section": "featured"
     },
@@ -614,7 +614,7 @@
       ],
       "github": "https://github.com/mat-sz/filedrop",
       "license": "BSD-3-Clause-Clear",
-      "stars": 964,
+      "stars": 966,
       "addedAt": "2026-06-11",
       "section": "meets-criteria"
     },
@@ -631,7 +631,7 @@
       ],
       "github": "https://github.com/clip-fish/web",
       "license": "MIT",
-      "stars": 59,
+      "stars": 61,
       "addedAt": "2026-06-11",
       "section": "meets-criteria"
     },
@@ -647,7 +647,7 @@
       ],
       "github": "https://github.com/fileverse/fileverse-ddoc",
       "license": "AGPL-3.0",
-      "stars": 416,
+      "stars": 448,
       "addedAt": "2026-07-10",
       "section": "editors-pick"
     },
@@ -662,7 +662,7 @@
       ],
       "github": "https://github.com/fileverse/fileverse-dsheet",
       "license": "AGPL-3.0",
-      "stars": 89,
+      "stars": 104,
       "addedAt": "2026-06-11",
       "section": "editors-pick"
     },
@@ -678,7 +678,7 @@
       ],
       "github": "https://github.com/jgraph/drawio",
       "license": "Apache-2.0",
-      "stars": 8308,
+      "stars": 8931,
       "addedAt": "2026-06-11",
       "section": "editors-pick"
     },
@@ -695,7 +695,7 @@
       ],
       "github": "https://github.com/shancarter/Mr-Data-Converter?tab=License-1-ov-file",
       "license": "MIT",
-      "stars": 1957,
+      "stars": 1956,
       "addedAt": "2026-06-11",
       "section": "meets-criteria"
     },
@@ -713,7 +713,7 @@
       ],
       "github": "https://github.com/gchq/CyberChef",
       "license": "Apache-2.0",
-      "stars": 35938,
+      "stars": 36181,
       "addedAt": "2026-06-11",
       "section": "editors-pick"
     },
@@ -731,7 +731,7 @@
       ],
       "github": "https://github.com/nrenner/brouter-web",
       "license": "MIT",
-      "stars": 501,
+      "stars": 502,
       "addedAt": "2026-06-11",
       "section": "editors-pick"
     },
@@ -749,7 +749,7 @@
       ],
       "github": "https://github.com/theacodes/kicanvas",
       "license": "MIT",
-      "stars": 1138,
+      "stars": 1155,
       "addedAt": "2026-06-11",
       "section": "editors-pick"
     },
@@ -767,7 +767,7 @@
       ],
       "github": "https://github.com/pfalstad/circuitjs1",
       "license": "GPL-2.0",
-      "stars": 2395,
+      "stars": 2429,
       "addedAt": "2026-06-11",
       "section": "editors-pick"
     },
@@ -786,7 +786,7 @@
       ],
       "github": "https://github.com/algorithm-visualizer/algorithm-visualizer",
       "license": "MIT",
-      "stars": 48741,
+      "stars": 48889,
       "addedAt": "2026-06-11",
       "section": "editors-pick"
     },
@@ -802,7 +802,7 @@
       ],
       "github": "https://github.com/SubtitleEdit/subtitleedit",
       "license": "MIT",
-      "stars": 14308,
+      "stars": 14675,
       "addedAt": "2026-06-11",
       "section": "editors-pick"
     },
@@ -819,7 +819,7 @@
       ],
       "github": "https://github.com/Orama-Interactive/Pixelorama",
       "license": "MIT",
-      "stars": 10364,
+      "stars": 10691,
       "addedAt": "2026-06-13",
       "section": "editors-pick"
     },
@@ -837,7 +837,7 @@
       ],
       "github": "https://github.com/AppsYogi-com/ComposeYogi",
       "license": "MIT",
-      "stars": 142,
+      "stars": 152,
       "addedAt": "2026-06-13",
       "section": "featured"
     },
@@ -854,7 +854,7 @@
       ],
       "github": "https://github.com/mxfng/drumhaus",
       "license": "CC BY-NC-SA 4.0",
-      "stars": 162,
+      "stars": 166,
       "addedAt": "2026-06-13",
       "section": "editors-pick"
     },
@@ -871,7 +871,7 @@
       ],
       "github": "https://github.com/VERT-sh/VERT",
       "license": "AGPL-3.0",
-      "stars": 15630,
+      "stars": 16068,
       "addedAt": "2026-06-13",
       "section": "editors-pick"
     },
@@ -887,7 +887,7 @@
       ],
       "github": "https://github.com/MewPurPur/GodSVG",
       "license": "MIT",
-      "stars": 2753,
+      "stars": 2783,
       "addedAt": "2026-06-13",
       "section": "meets-criteria"
     },
@@ -904,7 +904,7 @@
       ],
       "github": "https://github.com/spliit-app/spliit",
       "license": "MIT",
-      "stars": 2950,
+      "stars": 3004,
       "addedAt": "2026-06-13",
       "section": "meets-criteria"
     },
@@ -920,7 +920,7 @@
       ],
       "github": "https://github.com/potatameister/PaperKnife",
       "license": "AGPL-3.0",
-      "stars": 1465,
+      "stars": 1514,
       "addedAt": "2026-06-13",
       "section": "meets-criteria"
     },
@@ -937,7 +937,7 @@
       ],
       "github": "https://github.com/GoogleChromeLabs/squoosh/",
       "license": "Apache-2.0",
-      "stars": 25940,
+      "stars": 26055,
       "addedAt": "2026-06-13",
       "section": "meets-criteria"
     },
@@ -954,7 +954,7 @@
       ],
       "github": "https://github.com/stophecom/sharrr-svelte",
       "license": "MIT",
-      "stars": 170,
+      "stars": 171,
       "addedAt": "2026-06-13",
       "section": "meets-criteria"
     },
@@ -971,7 +971,7 @@
       ],
       "github": "https://github.com/ente-io/ente",
       "license": "AGPL-3.0",
-      "stars": 29044,
+      "stars": 29525,
       "addedAt": "2026-06-13",
       "section": "meets-criteria"
     },
@@ -988,7 +988,7 @@
       ],
       "github": "https://github.com/LinwoodDev/Butterfly",
       "license": "AGPL-3.0",
-      "stars": 2033,
+      "stars": 2066,
       "addedAt": "2026-06-13",
       "section": "meets-criteria"
     },
@@ -1005,7 +1005,7 @@
       ],
       "github": "https://github.com/marcrobledo/RomPatcher.js/",
       "license": "MIT",
-      "stars": 1207,
+      "stars": 1224,
       "addedAt": "2026-06-13",
       "section": "meets-criteria"
     },
@@ -1022,7 +1022,7 @@
       ],
       "github": "https://github.com/xdadda/mini-photo-editor",
       "license": "MIT",
-      "stars": 577,
+      "stars": 596,
       "addedAt": "2026-06-13",
       "section": "meets-criteria"
     },
@@ -1039,7 +1039,7 @@
       ],
       "github": "https://github.com/omni-media/omniclip",
       "license": "MIT",
-      "stars": 1463,
+      "stars": 1468,
       "addedAt": "2026-06-14",
       "section": "meets-criteria"
     },
@@ -1056,7 +1056,7 @@
       ],
       "github": "https://github.com/pshycodr/phosphor-cam",
       "license": "MIT",
-      "stars": 104,
+      "stars": 121,
       "addedAt": "2026-06-14",
       "section": "meets-criteria"
     },
@@ -1073,7 +1073,7 @@
       ],
       "github": "https://github.com/goncalojbsousa/EasyPeasyCV",
       "license": "MIT",
-      "stars": 24,
+      "stars": 26,
       "addedAt": "2026-06-14",
       "section": "meets-criteria"
     },
@@ -1105,7 +1105,7 @@
       ],
       "github": "https://github.com/AlfonsoML/proteccionDNI/",
       "license": "GPL-3.0",
-      "stars": 54,
+      "stars": 55,
       "addedAt": "2026-06-14",
       "section": "meets-criteria"
     },
@@ -1123,7 +1123,7 @@
       ],
       "github": "https://github.com/Stirling-Tools/Stirling-PDF",
       "license": "MIT",
-      "stars": 92907,
+      "stars": 94732,
       "addedAt": "2026-06-14",
       "section": "meets-criteria",
       "notRecommendedReason": "Skippable-signup"
@@ -1141,7 +1141,7 @@
       ],
       "github": "https://github.com/mikecase/opencode-config-builder",
       "license": "?",
-      "stars": 6,
+      "stars": 7,
       "addedAt": "2026-06-14",
       "section": "meets-criteria"
     },
@@ -1159,7 +1159,7 @@
       ],
       "github": "https://github.com/simplifaisoul/osiris",
       "license": "MIT",
-      "stars": 9931,
+      "stars": 11226,
       "addedAt": "2026-06-14",
       "section": "meets-criteria"
     },
@@ -1193,7 +1193,7 @@
       ],
       "github": "https://github.com/vijeeshr/quickretro",
       "license": "AGPL-3.0",
-      "stars": 55,
+      "stars": 57,
       "addedAt": "2026-06-15",
       "section": "meets-criteria"
     },
@@ -1227,7 +1227,7 @@
       ],
       "github": "https://github.com/CorentinTh/enclosed",
       "license": "Apache-2.0",
-      "stars": 2088,
+      "stars": 2099,
       "addedAt": "2026-06-15",
       "section": "meets-criteria"
     },
@@ -1244,7 +1244,7 @@
       ],
       "github": "https://github.com/qsniyg/maxurl",
       "license": "Apache-2.0",
-      "stars": 1628,
+      "stars": 1647,
       "addedAt": "2026-06-15",
       "section": "meets-criteria"
     },
@@ -1261,7 +1261,7 @@
       ],
       "github": "https://github.com/Merricx/qrazybox",
       "license": "MIT",
-      "stars": 531,
+      "stars": 535,
       "addedAt": "2026-06-15",
       "section": "meets-criteria"
     },
@@ -1279,7 +1279,7 @@
       ],
       "github": "https://github.com/lakshaybhushan/vecto3d",
       "license": "MIT",
-      "stars": 1481,
+      "stars": 1490,
       "addedAt": "2026-06-15",
       "section": "meets-criteria"
     },
@@ -1296,7 +1296,7 @@
       ],
       "github": "https://github.com/iAnonymous3000/metadata-remover",
       "license": "MIT",
-      "stars": 87,
+      "stars": 90,
       "addedAt": "2026-06-15",
       "section": "meets-criteria"
     },
@@ -1315,7 +1315,7 @@
       ],
       "github": "https://github.com/homarr-labs/dashboard-icons",
       "license": "Apache-2.0",
-      "stars": 8768,
+      "stars": 8908,
       "addedAt": "2026-06-15",
       "section": "meets-criteria"
     },
@@ -1333,7 +1333,7 @@
       ],
       "github": "https://github.com/Shpigford/studio",
       "license": "MIT",
-      "stars": 163,
+      "stars": 165,
       "addedAt": "2026-06-15",
       "section": "meets-criteria"
     },
@@ -1367,7 +1367,7 @@
       ],
       "github": "https://github.com/koala73/worldmonitor?utm_source=worldmonitor&utm_medium=referral&utm_campaign=general",
       "license": "AGPL-3.0-only",
-      "stars": 87288,
+      "stars": 89192,
       "addedAt": "2026-06-15",
       "section": "meets-criteria"
     },
@@ -1400,7 +1400,7 @@
       ],
       "github": "https://github.com/everestpipkin/image-scrubber",
       "license": "MIT",
-      "stars": 1016,
+      "stars": 1013,
       "addedAt": "2026-06-16",
       "section": "meets-criteria"
     },
@@ -1417,7 +1417,7 @@
       ],
       "github": "https://github.com/satvisorcom/satvisor",
       "license": "AGPL-3.0",
-      "stars": 12,
+      "stars": 13,
       "addedAt": "2026-06-16",
       "section": "meets-criteria"
     },
@@ -1452,7 +1452,7 @@
       ],
       "github": "https://github.com/1612elphi/delphitools",
       "license": "MIT",
-      "stars": 810,
+      "stars": 866,
       "addedAt": "2026-06-16",
       "section": "meets-criteria"
     },
@@ -1468,7 +1468,7 @@
       ],
       "github": "https://github.com/Infomaniak/kpaste",
       "license": "GPL-3.0",
-      "stars": 57,
+      "stars": 58,
       "addedAt": "2026-06-17",
       "section": "meets-criteria"
     },
@@ -1484,7 +1484,7 @@
       ],
       "github": "https://github.com/Yqnn/svg-path-editor",
       "license": "Apache-2.0",
-      "stars": 5324,
+      "stars": 5339,
       "addedAt": "2026-06-17",
       "section": "meets-criteria"
     },
@@ -1502,7 +1502,7 @@
       ],
       "github": "https://github.com/JannisX11/blockbench",
       "license": "GPL-3.0",
-      "stars": 5979,
+      "stars": 6082,
       "addedAt": "2026-06-17",
       "section": "meets-criteria"
     },
@@ -1518,7 +1518,7 @@
       ],
       "github": "https://github.com/pkalogiros/AudioMass",
       "license": "MIT",
-      "stars": 2994,
+      "stars": 3030,
       "addedAt": "2026-06-17",
       "section": "featured"
     },
@@ -1535,7 +1535,7 @@
       ],
       "github": "https://github.com/nalgeon/sqlime",
       "license": "MIT",
-      "stars": 1065,
+      "stars": 1067,
       "addedAt": "2026-06-17",
       "section": "meets-criteria"
     },
@@ -1553,7 +1553,7 @@
       ],
       "github": "https://github.com/miroslavpejic85/mirotalk",
       "license": "AGPL-3.0",
-      "stars": 4747,
+      "stars": 4799,
       "addedAt": "2026-06-17",
       "section": "meets-criteria"
     },
@@ -1569,7 +1569,7 @@
       ],
       "github": "https://github.com/fkling/astexplorer",
       "license": "MIT",
-      "stars": 6546,
+      "stars": 6545,
       "addedAt": "2026-06-17",
       "section": "meets-criteria"
     },
@@ -1585,7 +1585,7 @@
       ],
       "github": "https://github.com/corentinth/it-tools",
       "license": "GPL-3.0",
-      "stars": 40672,
+      "stars": 40934,
       "addedAt": "2026-06-17",
       "section": "editors-pick"
     },
@@ -1601,7 +1601,7 @@
       ],
       "github": "https://github.com/tone-row/flowchart-fun",
       "license": "MIT",
-      "stars": 3369,
+      "stars": 3410,
       "addedAt": "2026-06-17",
       "section": "meets-criteria"
     },
@@ -1617,7 +1617,7 @@
       ],
       "github": "https://github.com/ffmpegwasm/ffmpeg.wasm",
       "license": "MIT",
-      "stars": 17814,
+      "stars": 17898,
       "addedAt": "2026-06-17",
       "section": "meets-criteria"
     },
@@ -1634,7 +1634,7 @@
       ],
       "github": "https://github.com/koodo-reader/koodo-reader",
       "license": "AGPL-3.0",
-      "stars": 28282,
+      "stars": 28605,
       "addedAt": "2026-06-17",
       "section": "meets-criteria"
     },
@@ -1651,7 +1651,7 @@
       ],
       "github": "https://github.com/hoppscotch/hoppscotch",
       "license": "MIT",
-      "stars": 80482,
+      "stars": 80677,
       "addedAt": "2026-06-17",
       "section": "featured"
     },
@@ -1668,7 +1668,7 @@
       ],
       "github": "https://github.com/AykutSarac/jsoncrack.com",
       "license": "Apache-2.0",
-      "stars": 44449,
+      "stars": 44516,
       "addedAt": "2026-06-17",
       "section": "meets-criteria"
     },
@@ -1685,7 +1685,7 @@
       ],
       "github": "https://github.com/imputnet/cobalt",
       "license": "AGPL-3.0",
-      "stars": 43783,
+      "stars": 45348,
       "addedAt": "2026-06-17",
       "section": "meets-criteria"
     },
@@ -1702,7 +1702,7 @@
       ],
       "github": "https://github.com/mlbrothers/ToolsForImage-OSS",
       "license": "MIT",
-      "stars": 23,
+      "stars": 24,
       "addedAt": "2026-06-17",
       "section": "meets-criteria"
     },
@@ -1720,7 +1720,7 @@
       ],
       "github": "https://github.com/glincker/thesvg",
       "license": "MIT",
-      "stars": 2723,
+      "stars": 2886,
       "addedAt": "2026-06-17",
       "section": "meets-criteria"
     },
@@ -1737,7 +1737,7 @@
       ],
       "github": "https://github.com/yousifamanuel/terraink",
       "license": "MIT",
-      "stars": 4129,
+      "stars": 4208,
       "addedAt": "2026-06-17",
       "section": "meets-criteria"
     },
@@ -1754,7 +1754,7 @@
       ],
       "github": "https://github.com/hariharjeevan/cheezypizza",
       "license": "BSD 3-Clause",
-      "stars": 178,
+      "stars": 184,
       "addedAt": "2026-06-17",
       "section": "meets-criteria"
     },
@@ -1771,7 +1771,7 @@
       ],
       "github": "https://github.com/darkly-art/darkly",
       "license": "AGPL-3.0",
-      "stars": 328,
+      "stars": 395,
       "addedAt": "2026-06-17",
       "section": "meets-criteria"
     },
@@ -1788,7 +1788,7 @@
       ],
       "github": "https://github.com/themidnightgospel/free-cv-builder",
       "license": "MIT",
-      "stars": 27,
+      "stars": 28,
       "addedAt": "2026-06-18",
       "section": "meets-criteria"
     },
@@ -1807,7 +1807,7 @@
       ],
       "github": "https://github.com/alwedo/jobber",
       "license": "MIT",
-      "stars": 16,
+      "stars": 18,
       "addedAt": "2026-06-18",
       "section": "meets-criteria"
     },
@@ -1843,7 +1843,7 @@
       ],
       "github": "https://github.com/rakibulsagor/Clearcanvas",
       "license": "MIT",
-      "stars": 2,
+      "stars": 3,
       "addedAt": "2026-06-20",
       "section": "meets-criteria"
     },
@@ -1860,7 +1860,7 @@
       ],
       "github": "https://github.com/senolgulgonul/verisim",
       "license": "GPL-2.0",
-      "stars": 24,
+      "stars": 25,
       "addedAt": "2026-06-20",
       "section": "meets-criteria"
     },
@@ -1896,7 +1896,7 @@
       ],
       "github": "https://github.com/alam00000/bentopdf/",
       "license": "AGPL-3.0",
-      "stars": 15698,
+      "stars": 16123,
       "addedAt": "2026-06-20",
       "section": "featured"
     },
@@ -1966,7 +1966,7 @@
       ],
       "github": "https://github.com/emn178/online-tools",
       "license": "?",
-      "stars": 1216,
+      "stars": 1221,
       "addedAt": "2026-06-21",
       "section": "meets-criteria"
     },
@@ -1982,7 +1982,7 @@
       ],
       "github": "https://github.com/p2r3/convert",
       "license": "GPL-2.0",
-      "stars": 4055,
+      "stars": 4173,
       "addedAt": "2026-06-21",
       "section": "meets-criteria"
     },
@@ -2015,7 +2015,7 @@
       ],
       "github": "https://github.com/andymai/gridfinity-layout-tool",
       "license": "AGPL-3.0",
-      "stars": 387,
+      "stars": 451,
       "addedAt": "2026-06-21",
       "section": "meets-criteria"
     },
@@ -2032,7 +2032,7 @@
       ],
       "github": "https://github.com/lazy-guy/tomodoro",
       "license": "MIT",
-      "stars": 307,
+      "stars": 308,
       "addedAt": "2026-06-21",
       "section": "meets-criteria"
     },
@@ -2085,7 +2085,7 @@
       ],
       "github": "https://github.com/enonforetsam/fluid",
       "license": "MIT",
-      "stars": 72,
+      "stars": 92,
       "addedAt": "2026-06-21",
       "section": "featured"
     },
@@ -2102,7 +2102,7 @@
       ],
       "github": "https://github.com/KartikLabhshetwar/screenshot-studio",
       "license": "Apache-2.0",
-      "stars": 1011,
+      "stars": 1083,
       "addedAt": "2026-06-21",
       "section": "featured"
     },
@@ -2118,7 +2118,7 @@
       ],
       "github": "https://github.com/raycast/ray-so",
       "license": "MIT",
-      "stars": 2359,
+      "stars": 2365,
       "addedAt": "2026-06-21",
       "section": "meets-criteria"
     },
@@ -2136,7 +2136,7 @@
       ],
       "github": "https://github.com/pastelsky/bundlephobia",
       "license": "MIT",
-      "stars": 9594,
+      "stars": 9608,
       "addedAt": "2026-06-21",
       "section": "meets-criteria"
     },
@@ -2154,7 +2154,7 @@
       ],
       "github": "https://github.com/shane-jacobeen/schema3d",
       "license": "MIT",
-      "stars": 14,
+      "stars": 15,
       "addedAt": "2026-06-21",
       "section": "meets-criteria"
     },
@@ -2173,7 +2173,7 @@
       ],
       "github": "https://github.com/ritz078/transform",
       "license": "MIT",
-      "stars": 9237,
+      "stars": 9247,
       "addedAt": "2026-06-21",
       "section": "meets-criteria"
     },
@@ -2190,7 +2190,7 @@
       ],
       "github": "https://github.com/idank/explainshell",
       "license": "GPL-3.0",
-      "stars": 14251,
+      "stars": 14301,
       "addedAt": "2026-06-23",
       "section": "meets-criteria"
     },
@@ -2207,7 +2207,7 @@
       ],
       "github": "https://github.com/megh-bari/pattern-craft",
       "license": "MIT",
-      "stars": 3078,
+      "stars": 3088,
       "addedAt": "2026-06-23",
       "section": "meets-criteria"
     },
@@ -2224,7 +2224,7 @@
       ],
       "github": "https://github.com/inbn/component-gallery",
       "license": "?",
-      "stars": 348,
+      "stars": 352,
       "addedAt": "2026-06-23",
       "section": "meets-criteria"
     },
@@ -2260,7 +2260,7 @@
       ],
       "github": "https://github.com/Specy/asm-editor",
       "license": "AGPL-3.0",
-      "stars": 326,
+      "stars": 376,
       "addedAt": "2026-06-23",
       "section": "meets-criteria"
     },
@@ -2295,7 +2295,7 @@
       ],
       "github": "https://github.com/Specy/rooc",
       "license": "MPL-2.0",
-      "stars": 71,
+      "stars": 74,
       "addedAt": "2026-06-23",
       "section": "meets-criteria"
     },
@@ -2310,7 +2310,7 @@
       ],
       "github": "https://github.com/bitbof/klecks",
       "license": "MIT",
-      "stars": 379,
+      "stars": 385,
       "addedAt": "2026-06-23",
       "section": "meets-criteria"
     },
@@ -2329,7 +2329,7 @@
       ],
       "github": "https://github.com/chipmates/agoracosmica",
       "license": "AGPL-3.0",
-      "stars": 143,
+      "stars": 149,
       "addedAt": "2026-06-24",
       "section": "meets-criteria"
     },
@@ -2348,7 +2348,7 @@
       ],
       "github": "https://github.com/lucide-icons/lucide",
       "license": "ISC",
-      "stars": 24688,
+      "stars": 25210,
       "addedAt": "2026-06-24",
       "section": "meets-criteria"
     },
@@ -2365,7 +2365,7 @@
       ],
       "github": "https://github.com/lookscanned/lookscanned.io",
       "license": "MIT",
-      "stars": 3602,
+      "stars": 3600,
       "addedAt": "2026-06-24",
       "section": "meets-criteria"
     },
@@ -2397,7 +2397,7 @@
       ],
       "github": "https://github.com/linuz90/gists.sh",
       "license": "?",
-      "stars": 86,
+      "stars": 85,
       "addedAt": "2026-06-24",
       "section": "meets-criteria"
     },
@@ -2414,7 +2414,7 @@
       ],
       "github": "https://github.com/pranavp10/video-compress",
       "license": "MIT",
-      "stars": 381,
+      "stars": 384,
       "addedAt": "2026-06-24",
       "section": "meets-criteria"
     },
@@ -2433,7 +2433,7 @@
       ],
       "github": "https://github.com/simple-icons/simple-icons",
       "license": "CC0-1.0",
-      "stars": 25901,
+      "stars": 26059,
       "addedAt": "2026-06-24",
       "section": "meets-criteria"
     },
@@ -2452,7 +2452,7 @@
       ],
       "github": "https://github.com/phosphor-icons/homepage/tree/master",
       "license": "MIT",
-      "stars": 7538,
+      "stars": 7701,
       "addedAt": "2026-06-25",
       "section": "meets-criteria"
     },
@@ -2471,7 +2471,7 @@
       ],
       "github": "https://github.com/Remix-Design/RemixIcon",
       "license": "RIL-1.0",
-      "stars": 8382,
+      "stars": 8427,
       "addedAt": "2026-06-25",
       "section": "meets-criteria"
     },
@@ -2490,7 +2490,7 @@
       ],
       "github": "https://github.com/iconoir-icons/iconoir",
       "license": "MIT",
-      "stars": 4559,
+      "stars": 4601,
       "addedAt": "2026-06-25",
       "section": "meets-criteria"
     },
@@ -2509,7 +2509,7 @@
       ],
       "github": "https://github.com/hfg-gmuend/openmoji",
       "license": "CC-BY-SA-4.0",
-      "stars": 4558,
+      "stars": 4570,
       "addedAt": "2026-06-25",
       "section": "meets-criteria"
     },
@@ -2528,7 +2528,7 @@
       ],
       "github": "https://github.com/tailwindlabs/heroicons",
       "license": "MIT",
-      "stars": 23816,
+      "stars": 23875,
       "addedAt": "2026-06-25",
       "section": "meets-criteria"
     },
@@ -2547,7 +2547,7 @@
       ],
       "github": "https://github.com/feathericons/feather",
       "license": "MIT",
-      "stars": 26003,
+      "stars": 26017,
       "addedAt": "2026-06-25",
       "section": "meets-criteria"
     },
@@ -2566,7 +2566,7 @@
       ],
       "github": "https://github.com/tabler/tabler-icons",
       "license": "MIT",
-      "stars": 21779,
+      "stars": 22412,
       "addedAt": "2026-06-25",
       "section": "meets-criteria"
     },
@@ -2583,7 +2583,7 @@
       ],
       "github": "https://github.com/noumena-labs/Sipp",
       "license": "Apache-2.0",
-      "stars": 123,
+      "stars": 121,
       "addedAt": "2026-06-26",
       "section": "meets-criteria"
     },
@@ -2600,7 +2600,7 @@
       ],
       "github": "https://github.com/aayushdutt/midee",
       "license": "?",
-      "stars": 38,
+      "stars": 45,
       "addedAt": "2026-06-26",
       "section": "featured"
     },
@@ -2616,7 +2616,7 @@
       ],
       "github": "https://github.com/iNikAnn/DoHabit",
       "license": "AGPL-3.0",
-      "stars": 64,
+      "stars": 63,
       "addedAt": "2026-06-26",
       "section": "meets-criteria"
     },
@@ -2633,7 +2633,7 @@
       ],
       "github": "https://github.com/microsoft/vscode",
       "license": "MIT",
-      "stars": 192830,
+      "stars": 194209,
       "addedAt": "2026-06-26",
       "section": "editors-pick"
     },
@@ -2668,7 +2668,7 @@
       ],
       "github": "https://github.com/WebPraktikos/universal-resume",
       "license": "CC BY-NC-SA 1.0",
-      "stars": 1798,
+      "stars": 1800,
       "addedAt": "2026-06-28",
       "section": "meets-criteria"
     },
@@ -2684,7 +2684,7 @@
       ],
       "github": "https://github.com/sayanarijit/qrcode.show",
       "license": "AGPL-3.0",
-      "stars": 636,
+      "stars": 638,
       "addedAt": "2026-06-28",
       "section": "meets-criteria"
     },
@@ -2703,7 +2703,7 @@
       ],
       "github": "https://github.com/selfhst/icons",
       "license": "CC-BY-4.0",
-      "stars": 974,
+      "stars": 985,
       "addedAt": "2026-06-28",
       "section": "meets-criteria"
     },
@@ -2719,7 +2719,7 @@
       ],
       "github": "https://github.com/tldraw/tldraw",
       "license": "NC",
-      "stars": 50537,
+      "stars": 51041,
       "addedAt": "2026-06-28",
       "section": "meets-criteria"
     },
@@ -2735,7 +2735,7 @@
       ],
       "github": "https://github.com/carbon-app/carbon",
       "license": "MIT",
-      "stars": 36105,
+      "stars": 36121,
       "addedAt": "2026-06-28",
       "section": "meets-criteria"
     },
@@ -2753,7 +2753,7 @@
       ],
       "github": "https://github.com/makegirlsmoe/makegirlsmoe_web",
       "license": "CC BY-NC 2.0",
-      "stars": 3414,
+      "stars": 3413,
       "addedAt": "2026-06-30",
       "section": "meets-criteria"
     },
@@ -2770,7 +2770,7 @@
       ],
       "github": "https://github.com/lewish/asciiflow",
       "license": "MIT",
-      "stars": 5931,
+      "stars": 5972,
       "addedAt": "2026-06-30",
       "section": "meets-criteria"
     },
@@ -2786,7 +2786,7 @@
       ],
       "github": "https://github.com/toeverything/AFFiNE",
       "license": "MIT",
-      "stars": 72907,
+      "stars": 73756,
       "addedAt": "2026-06-30",
       "section": "meets-criteria"
     },
@@ -2802,7 +2802,7 @@
       ],
       "github": "https://github.com/logseq/logseq",
       "license": "AGPL-3.0",
-      "stars": 45036,
+      "stars": 45332,
       "addedAt": "2026-06-30",
       "section": "featured"
     },
@@ -2818,7 +2818,7 @@
       ],
       "github": "https://github.com/jakearchibald/svgomg",
       "license": "MIT",
-      "stars": 6200,
+      "stars": 6207,
       "addedAt": "2026-06-30",
       "section": "meets-criteria"
     },
@@ -2834,7 +2834,7 @@
       ],
       "github": "https://github.com/glyphr-studio/Glyphr-Studio-2",
       "license": "?",
-      "stars": 313,
+      "stars": 319,
       "addedAt": "2026-06-30",
       "section": "meets-criteria"
     },
@@ -2851,7 +2851,7 @@
       ],
       "github": "https://github.com/CodeGraphContext/CodeGraphContext",
       "license": "MIT",
-      "stars": 4221,
+      "stars": 4330,
       "addedAt": "2026-06-30",
       "section": "meets-criteria"
     },
@@ -2901,7 +2901,7 @@
       ],
       "github": "https://github.com/gskinner/regexr/",
       "license": "GPL-3.0",
-      "stars": 10368,
+      "stars": 10382,
       "addedAt": "2026-06-30",
       "section": "featured"
     },
@@ -2919,7 +2919,7 @@
       ],
       "github": "https://github.com/webtor-io/web-ui",
       "license": "MIT",
-      "stars": 68,
+      "stars": 83,
       "addedAt": "2026-06-30",
       "section": "featured"
     },
@@ -2937,7 +2937,7 @@
       ],
       "github": "https://github.com/Fechin/reference",
       "license": "GPL-3.0",
-      "stars": 10865,
+      "stars": 10919,
       "addedAt": "2026-06-30",
       "section": "meets-criteria"
     },
@@ -2971,7 +2971,7 @@
       ],
       "github": "https://github.com/cupcakearmy/cryptgeon",
       "license": "MIT",
-      "stars": 1534,
+      "stars": 1562,
       "addedAt": "2026-07-02",
       "section": "meets-criteria"
     },
@@ -2989,7 +2989,7 @@
       ],
       "github": "https://github.com/tra-sco/mermify",
       "license": "MIT",
-      "stars": 23,
+      "stars": 33,
       "addedAt": "2026-07-02",
       "section": "meets-criteria"
     },
@@ -3039,7 +3039,7 @@
       ],
       "github": "https://github.com/fullstack-hy2020/fullstack-hy2020.github.io",
       "license": "CC BY-NC-SA 3.0",
-      "stars": 2226,
+      "stars": 2238,
       "addedAt": "2026-07-02",
       "section": "meets-criteria"
     },
@@ -3055,7 +3055,7 @@
       ],
       "github": "https://github.com/sardorml/tailit",
       "license": "MIT",
-      "stars": 27,
+      "stars": 29,
       "addedAt": "2026-07-02",
       "section": "meets-criteria",
       "notRecommendedReason": "AI feature doesn't work anymore"
@@ -3072,7 +3072,7 @@
       ],
       "github": "https://github.com/coffeetron832/Giraffile",
       "license": "MIT",
-      "stars": 182,
+      "stars": 186,
       "addedAt": "2026-07-07",
       "section": "meets-criteria"
     },
@@ -3090,7 +3090,7 @@
       ],
       "github": "https://github.com/richardr1126/openreader",
       "license": "MIT",
-      "stars": 515,
+      "stars": 546,
       "addedAt": "2026-07-07",
       "section": "meets-criteria"
     },
@@ -3107,7 +3107,7 @@
       ],
       "github": "https://github.com/readest/readest",
       "license": "AGPL-3.0",
-      "stars": 24565,
+      "stars": 25519,
       "addedAt": "2026-07-07",
       "section": "featured"
     },
@@ -3123,7 +3123,7 @@
       ],
       "github": "https://github.com/younesfdj/gitfut",
       "license": "MIT",
-      "stars": 2610,
+      "stars": 2653,
       "addedAt": "2026-07-07",
       "section": "meets-criteria"
     },
@@ -3139,7 +3139,7 @@
       ],
       "github": "https://github.com/whoisyurii/checkmygit",
       "license": "MIT",
-      "stars": 641,
+      "stars": 644,
       "addedAt": "2026-07-07",
       "section": "meets-criteria"
     },
@@ -3155,7 +3155,7 @@
       ],
       "github": "https://github.com/Great-Software-Company/strongeditor",
       "license": "GPL-3.0",
-      "stars": 8,
+      "stars": 11,
       "addedAt": "2026-07-07",
       "section": "meets-criteria"
     },
@@ -3223,7 +3223,7 @@
       ],
       "github": "https://github.com/hsr88/log-voyager",
       "license": "MIT",
-      "stars": 123,
+      "stars": 121,
       "addedAt": "2026-07-07",
       "section": "meets-criteria"
     },
@@ -3259,7 +3259,7 @@
       ],
       "github": "https://github.com/ripienaar/free-for-dev",
       "license": "?",
-      "stars": 138082,
+      "stars": 139922,
       "addedAt": "2026-07-07",
       "section": "meets-criteria"
     },
@@ -3275,7 +3275,7 @@
       ],
       "github": "https://github.com/fmhy/edit",
       "license": "?",
-      "stars": 12021,
+      "stars": 12522,
       "addedAt": "2026-07-07",
       "section": "editors-pick"
     },
@@ -3291,7 +3291,7 @@
       ],
       "github": "https://github.com/Augani/openreel-video",
       "license": "MIT",
-      "stars": 5190,
+      "stars": 5430,
       "addedAt": "2026-07-07",
       "section": "featured"
     },
@@ -3357,7 +3357,7 @@
       ],
       "github": "https://github.com/Topurrra/themissingmanual",
       "license": "CC-BY-SA-4.0",
-      "stars": 19,
+      "stars": 22,
       "addedAt": "2026-07-09",
       "section": "meets-criteria"
     },
@@ -3376,7 +3376,7 @@
       ],
       "github": "https://github.com/nilbuild/developer-roadmap",
       "license": "Custom",
-      "stars": 367982,
+      "stars": 370126,
       "addedAt": "2026-07-09",
       "section": "meets-criteria"
     },
@@ -3425,7 +3425,7 @@
       ],
       "github": "https://github.com/codewithdhruba01/ColorPicker",
       "license": "MIT",
-      "stars": 6,
+      "stars": 56,
       "addedAt": "2026-07-09",
       "section": "meets-criteria"
     },
@@ -3441,7 +3441,7 @@
       ],
       "github": "https://github.com/HamzaYslmn/open-razerkit",
       "license": "Custom",
-      "stars": 19,
+      "stars": 21,
       "addedAt": "2026-07-09",
       "section": "meets-criteria"
     },
@@ -3457,7 +3457,7 @@
       ],
       "github": "https://github.com/petarov/appstore-web-search",
       "license": "MIT",
-      "stars": 15,
+      "stars": 14,
       "addedAt": "2026-07-12",
       "section": "meets-criteria"
     },
@@ -3491,7 +3491,7 @@
       ],
       "github": "https://github.com/schollz/e2ecp",
       "license": "MIT",
-      "stars": 507,
+      "stars": 511,
       "addedAt": "2026-07-12",
       "section": "meets-criteria"
     },
@@ -3510,7 +3510,7 @@
       ],
       "github": "https://github.com/lockfale/OSINT-Framework",
       "license": "MIT",
-      "stars": 12177,
+      "stars": 12321,
       "addedAt": "2026-07-12",
       "section": "meets-criteria"
     },
@@ -3525,7 +3525,7 @@
       ],
       "github": "https://github.com/CristianOlivera1/openhero",
       "license": "MIT",
-      "stars": 395,
+      "stars": 403,
       "addedAt": "2026-07-12",
       "section": "meets-criteria"
     },
@@ -3541,7 +3541,7 @@
       ],
       "github": "https://github.com/walterlow/freecut",
       "license": "MIT",
-      "stars": 2195,
+      "stars": 2286,
       "addedAt": "2026-07-12",
       "section": "meets-criteria"
     },
@@ -3587,7 +3587,7 @@
       ],
       "github": "https://github.com/kevinwielander/digital-business-cards",
       "license": "MIT",
-      "stars": 20,
+      "stars": 22,
       "addedAt": "2026-07-12",
       "section": "meets-criteria"
     },
@@ -3604,7 +3604,7 @@
       ],
       "github": "https://github.com/Ayansh0209/CodeMap-Ai",
       "license": "MIT",
-      "stars": 61,
+      "stars": 63,
       "addedAt": "2026-07-12",
       "section": "meets-criteria"
     },
@@ -3621,7 +3621,7 @@
       ],
       "github": "https://github.com/markmap/markmap",
       "license": "MIT",
-      "stars": 13132,
+      "stars": 13187,
       "addedAt": "2026-07-12",
       "section": "meets-criteria"
     },
@@ -3640,7 +3640,7 @@
       ],
       "github": "https://github.com/yuzutech/kroki",
       "license": "MIT",
-      "stars": 4344,
+      "stars": 4379,
       "addedAt": "2026-07-12",
       "section": "meets-criteria"
     },
@@ -3687,7 +3687,7 @@
       ],
       "github": "https://github.com/ardakaracizmeli/design-system-checklist",
       "license": "?",
-      "stars": 505,
+      "stars": 506,
       "addedAt": "2026-07-15",
       "section": "meets-criteria"
     },
@@ -3703,7 +3703,7 @@
       ],
       "github": "https://github.com/Subhan-code/Amicro--Micro-transitions-",
       "license": "?",
-      "stars": 2471,
+      "stars": 2681,
       "addedAt": "2026-07-15",
       "section": "meets-criteria"
     },
@@ -3719,7 +3719,7 @@
       ],
       "github": "https://github.com/markrai/postbaby?ref=selfh.st",
       "license": "PHU",
-      "stars": 47,
+      "stars": 46,
       "addedAt": "2026-07-15",
       "section": "meets-criteria"
     },
@@ -3735,7 +3735,7 @@
       ],
       "github": "https://github.com/stayradiated/terminal.sexy",
       "license": "MIT",
-      "stars": 987,
+      "stars": 989,
       "addedAt": "2026-07-15",
       "section": "meets-criteria"
     },
@@ -3751,7 +3751,7 @@
       ],
       "github": "https://github.com/rimzzlabs/lanjut",
       "license": "AGPL-3.0",
-      "stars": 77,
+      "stars": 105,
       "addedAt": "2026-07-15",
       "section": "featured"
     },
@@ -3782,7 +3782,7 @@
       ],
       "github": "https://github.com/xt42io/avnac",
       "license": "AGPL-3.0",
-      "stars": 1566,
+      "stars": 1587,
       "addedAt": "2026-07-15",
       "section": "meets-criteria"
     },
@@ -3799,7 +3799,7 @@
       ],
       "github": "https://github.com/zivavu/OpenMosh",
       "license": "MIT",
-      "stars": 7,
+      "stars": 12,
       "addedAt": "2026-07-15",
       "section": "meets-criteria"
     },
@@ -3816,7 +3816,7 @@
       ],
       "github": "https://github.com/monkeytypegame/monkeytype",
       "license": "GPL-3.0",
-      "stars": 20750,
+      "stars": 20922,
       "addedAt": "2026-07-15",
       "section": "meets-criteria"
     },
@@ -3834,7 +3834,7 @@
       ],
       "github": "https://github.com/jenissimo/bottleship",
       "license": "Apache-2.0",
-      "stars": 126,
+      "stars": 161,
       "addedAt": "2026-07-15",
       "section": "featured"
     },
@@ -3851,7 +3851,7 @@
       ],
       "github": "https://github.com/pdfme/pdfme",
       "license": "MIT",
-      "stars": 4846,
+      "stars": 4930,
       "addedAt": "2026-07-26",
       "section": "editors-pick"
     },
@@ -3868,7 +3868,7 @@
       ],
       "github": "https://github.com/filiksyos/gitreverse",
       "license": "?",
-      "stars": 1935,
+      "stars": 2029,
       "addedAt": "2026-07-26",
       "section": "meets-criteria"
     },
@@ -3883,7 +3883,7 @@
       ],
       "github": "https://github.com/zoxilsi/studio",
       "license": "MIT",
-      "stars": 113,
+      "stars": 115,
       "addedAt": "2026-07-26",
       "section": "meets-criteria"
     },
@@ -3899,7 +3899,7 @@
       ],
       "github": "https://github.com/No-Suggest/NoSuggest",
       "license": "NC",
-      "stars": 36,
+      "stars": 38,
       "addedAt": "2026-07-26",
       "section": "meets-criteria"
     },
@@ -3915,7 +3915,7 @@
       ],
       "github": "https://github.com/rosintplus/rosintplus.github.io",
       "license": "MIT",
-      "stars": 12,
+      "stars": 15,
       "addedAt": "2026-07-26",
       "section": "meets-criteria"
     },
@@ -3931,7 +3931,7 @@
       ],
       "github": "https://github.com/godotengine/godot",
       "license": "MIT",
-      "stars": 117661,
+      "stars": 118872,
       "addedAt": "2026-07-26",
       "section": "editors-pick"
     },
@@ -3963,7 +3963,7 @@
       ],
       "github": "https://github.com/iib0011/omni-tools",
       "license": "MIT",
-      "stars": 10243,
+      "stars": 10342,
       "addedAt": "2026-08-03",
       "section": "meets-criteria"
     },
@@ -3996,7 +3996,7 @@
       ],
       "github": "https://github.com/schollz/croc",
       "license": "MIT",
-      "stars": 40430,
+      "stars": 40716,
       "addedAt": "2026-08-03",
       "section": "editors-pick"
     },
@@ -4012,7 +4012,7 @@
       ],
       "github": "https://github.com/nxfu/binthere",
       "license": "MIT",
-      "stars": 253,
+      "stars": 272,
       "addedAt": "2026-08-03",
       "section": "meets-criteria"
     },
@@ -4027,7 +4027,7 @@
       ],
       "github": "https://github.com/andremichelle/openDAW",
       "license": "?",
-      "stars": 2147,
+      "stars": 2363,
       "addedAt": "2026-08-03",
       "section": "editors-pick"
     },
@@ -4044,7 +4044,7 @@
       ],
       "github": "https://github.com/Zeecka/AperiSolve",
       "license": "MIT",
-      "stars": 846,
+      "stars": 862,
       "addedAt": "2026-08-21",
       "section": "meets-criteria"
     },
@@ -4060,7 +4060,7 @@
       ],
       "github": "https://github.com/CristianOlivera1/Aura",
       "license": "MIT",
-      "stars": 478,
+      "stars": 509,
       "addedAt": "2026-08-21",
       "section": "meets-criteria"
     },
@@ -4076,7 +4076,7 @@
       ],
       "github": "https://github.com/ramensoftware/windhawk",
       "license": "GPL-3.0",
-      "stars": 9087,
+      "stars": 9489,
       "addedAt": "2026-08-21",
       "section": "meets-criteria"
     },
@@ -4107,7 +4107,7 @@
       ],
       "github": "https://github.com/Imranpranto/readlocal-local-markdown-md-file-renderer",
       "license": "?",
-      "stars": 4,
+      "stars": 5,
       "addedAt": "2026-08-21",
       "section": "meets-criteria"
     },
@@ -4123,7 +4123,7 @@
       ],
       "github": "https://github.com/laanlabs/openPlan3D",
       "license": "MIT",
-      "stars": 164,
+      "stars": 234,
       "addedAt": "2026-08-21",
       "section": "meets-criteria"
     },
@@ -4171,7 +4171,7 @@
       ],
       "github": "https://github.com/sphericalkat/katbin",
       "license": "?",
-      "stars": 206,
+      "stars": 210,
       "addedAt": "2026-08-21",
       "section": "meets-criteria"
     },
@@ -4186,7 +4186,7 @@
       ],
       "github": "https://github.com/lubusIN/frappe-playground",
       "license": "?",
-      "stars": 42,
+      "stars": 43,
       "addedAt": "2026-08-21",
       "section": "meets-criteria"
     },
@@ -4219,7 +4219,7 @@
       ],
       "github": "https://github.com/erikraft/Drop",
       "license": "GPL-3.0",
-      "stars": 20,
+      "stars": 23,
       "addedAt": "2026-08-21",
       "section": "meets-criteria"
     },
@@ -4236,7 +4236,7 @@
       ],
       "github": "https://github.com/HakanSeven12/OpenCADStudio",
       "license": "GPL-3.0",
-      "stars": 2243,
+      "stars": 3449,
       "addedAt": "2026-09-07",
       "section": "editors-pick"
     },
@@ -4253,7 +4253,7 @@
       ],
       "github": "https://github.com/xupeiwust/cyclecad",
       "license": "MIT",
-      "stars": 2,
+      "stars": 3,
       "addedAt": "2026-09-07",
       "section": "meets-criteria"
     },
@@ -4270,7 +4270,7 @@
       ],
       "github": "https://github.com/xiangechen/chili3d",
       "license": "AGPL-3.0",
-      "stars": 4857,
+      "stars": 4931,
       "addedAt": "2026-09-07",
       "section": "featured"
     },
@@ -4317,7 +4317,7 @@
       ],
       "github": "https://github.com/skyfay/skysend",
       "license": "AGPL-3.0",
-      "stars": 399,
+      "stars": 441,
       "addedAt": "2026-09-07",
       "section": "meets-criteria"
     },
@@ -4332,7 +4332,7 @@
       ],
       "github": "https://github.com/OpenMouse-Project/openmouse",
       "license": "AGPL-3.0",
-      "stars": 1958,
+      "stars": 2588,
       "addedAt": "2026-09-09",
       "section": "meets-criteria"
     },
@@ -4414,7 +4414,7 @@
       ],
       "github": "https://github.com/gaurav-nelson/asciidocalive",
       "license": "Apache-2.0",
-      "stars": 18,
+      "stars": 20,
       "addedAt": "2026-09-09",
       "section": "meets-criteria"
     },
@@ -4429,7 +4429,7 @@
       ],
       "github": "https://github.com/WardPearce/paaster",
       "license": "AGPL-3.0",
-      "stars": 563,
+      "stars": 566,
       "addedAt": "2026-09-09",
       "section": "meets-criteria"
     },
@@ -4445,7 +4445,7 @@
       ],
       "github": "https://github.com/nyaomaru/dsa-view-view",
       "license": "MIT",
-      "stars": 21,
+      "stars": 24,
       "addedAt": "2026-09-09",
       "section": "meets-criteria"
     },
@@ -4507,7 +4507,7 @@
       ],
       "github": "https://github.com/champagnewiki/champagne-wiki",
       "license": "?",
-      "stars": 111,
+      "stars": 136,
       "addedAt": "2026-09-09",
       "section": "meets-criteria"
     },
@@ -4524,7 +4524,7 @@
       ],
       "github": "https://github.com/pascalorg/editor",
       "license": "MIT",
-      "stars": 24274,
+      "stars": 25054,
       "addedAt": "2026-09-22",
       "section": "meets-criteria"
     },
@@ -4554,7 +4554,7 @@
       ],
       "github": "https://github.com/lnkiai/m3e-canvas",
       "license": "MIT",
-      "stars": 8083,
+      "stars": 9588,
       "addedAt": "2026-09-22",
       "section": "editors-pick"
     },
@@ -4570,7 +4570,7 @@
       ],
       "github": "https://github.com/DenverCoder1/github-readme-streak-stats",
       "license": "MIT",
-      "stars": 7147,
+      "stars": 7179,
       "addedAt": "2026-09-22",
       "section": "meets-criteria"
     },
@@ -4586,7 +4586,7 @@
       ],
       "github": "https://github.com/emanuelef/daily-stars-explorer",
       "license": "MIT",
-      "stars": 404,
+      "stars": 411,
       "addedAt": "2026-09-22",
       "section": "meets-criteria"
     },
@@ -4602,7 +4602,7 @@
       ],
       "github": "https://github.com/jdm-contrib/jdm",
       "license": "MIT",
-      "stars": 1354,
+      "stars": 1391,
       "addedAt": "2026-09-22",
       "section": "editors-pick"
     }
