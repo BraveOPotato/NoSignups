@@ -4241,23 +4241,6 @@
       "section": "editors-pick"
     },
     {
-      "id": "cyclecad",
-      "name": "CycleCAD",
-      "description": "Browser-based parametric 3D CAD modeler with AI-powered tools and native Inventor file parsing",
-      "url": "https://cyclecad.com/app/",
-      "category": "productivity",
-      "tags": [
-        "cad-design",
-        "3d-design",
-        "3d-model"
-      ],
-      "github": "https://github.com/xupeiwust/cyclecad",
-      "license": "MIT",
-      "stars": 3,
-      "addedAt": "2026-09-07",
-      "section": "meets-criteria"
-    },
-    {
       "id": "chili3d",
       "name": "Chili3D",
       "description": "A 3D CAD running entirely in the browser",
