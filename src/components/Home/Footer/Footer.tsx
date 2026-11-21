@@ -11,7 +11,7 @@ export function Footer() {
         <div className={s.footerCol}>
           <h3>About</h3>
           <p>
-            NoSignups (formerly FckSignups) is a curated directory of tools that
+            NoSignups is a curated directory of tools that
             respect your time. No signups, no spam, no dark patterns.
           </p>
         </div>
