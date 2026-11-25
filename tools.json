@@ -3660,22 +3660,6 @@
       "section": "meets-criteria"
     },
     {
-      "id": "sarx",
-      "name": "Sarx",
-      "description": "Enter your stats once and get a full picture of your health: what your numbers mean, where your goals should be, and the knowledge to back it up",
-      "url": "https://www.sarx.app",
-      "category": "utilities",
-      "tags": [
-        "bmi",
-        "wellness"
-      ],
-      "github": "https://github.com/Chaissonc/Sarx",
-      "license": "?",
-      "stars": 0,
-      "addedAt": "2026-07-15",
-      "section": "meets-criteria"
-    },
-    {
       "id": "design-systems-checklist",
       "name": "Design Systems Checklist",
       "description": "checklist to help you plan, build and grow your design system",
