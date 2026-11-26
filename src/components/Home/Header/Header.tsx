@@ -43,7 +43,7 @@ export function Header({ toolCount, categoryCount }: HeaderProps) {
               <span>Signups</span>
               <span className={s.dotnet}>.net</span>
             </h1>
-            <h2 className={s.formerlyFcksignups}>(formerly FckSignups.com)</h2>
+            <h2 className={s.formerlyFcksignups}>NoSignups</h2>
             <div className={s.taglineBlock}>
               <p className={s.taglineMain}>
                 Open Source Tools. No Signups. Right in your browser
