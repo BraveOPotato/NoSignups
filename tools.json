@@ -174,7 +174,7 @@
       "id": "graphite",
       "name": "Graphite",
       "description": "Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine",
-      "url": "https://editor.graphite.rs",
+      "url": "https://editor.graphite.art",
       "category": "design",
       "tags": [
         "vector",
@@ -1167,7 +1167,7 @@
       "id": "niolesk",
       "name": "Niolesk",
       "description": "Edit diagrams from textual descriptions!",
-      "url": "niolesk.top",
+      "url": "https://niolesk.top",
       "category": "development",
       "tags": [
         "diagram",
@@ -1974,7 +1974,7 @@
       "id": "convert",
       "name": "Convert To It",
       "description": "Truly universal online file converter",
-      "url": "http://convert.to.it/",
+      "url": "https://p2r3.com/convert",
       "category": "utilities",
       "tags": [
         "file",
